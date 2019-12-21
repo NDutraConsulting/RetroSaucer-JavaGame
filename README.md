@@ -20,4 +20,6 @@ Pull requests are welcome.
 
 ## Author
 Nikko Dutra Bouck
+& 
+William Hooper
 
