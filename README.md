@@ -18,3 +18,6 @@ Use keyboard controls and the click the mouse to shoot
 ## Contributing
 Pull requests are welcome.
 
+## Author
+Nikko Dutra Bouck
+
